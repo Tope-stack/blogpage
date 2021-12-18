@@ -1,5 +1,5 @@
 ## Blog Page built using
 
-#- HTML
-#- CSS
-#- JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
